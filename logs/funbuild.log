@@ -1,4 +1,0 @@
-2026-08-31 18:48:13.316 |INFO    | funbuild.core.base : base: 187 | funbuild | - funtemp build
-2026-08-31 18:48:13.317 |INFO    | funbuild.core.base : base: 128 | funbuild | - funtemp pull
-2026-08-31 18:48:13.798 |INFO    | funbuild.core.uv_build : uv_build: 204 | funbuild | - public server: pypi
-2026-08-31 18:48:16.167 |INFO    | funbuild.core.base : base: 161 | funbuild | - funtemp push
