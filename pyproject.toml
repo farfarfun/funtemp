@@ -1,7 +1,7 @@
 [project]
 name = "funtemp"
 version = "0.0.2"
-description = "funtemp"
+description = "提供可导入版本元数据的轻量级 Python 包"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
