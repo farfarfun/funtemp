@@ -1,6 +1,6 @@
 # funtemp
 
-`funtemp` 是一个提供可导入版本元数据的轻量级 Python 包，可用于检查安装状态和依赖可用性。
+`funtemp` 是一个提供可导入版本元数据的轻量级 Python 包，当前仅暴露 `__version__` 字段，用于确认包已正确安装。
 
 ## Install
 
